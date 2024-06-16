@@ -1,0 +1,4 @@
+rootProject.name = "msp"
+
+include ':benchmark'
+include ':msplib'
